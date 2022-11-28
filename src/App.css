@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(174, 207, 196);
+
+}
+
+input {
+
+    width: 195px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: antiquewhite;
+    overflow: scroll;
+    height: 400px;
+    width: 202px;
+    align-items: center;
+    justify-content: center;
+}
+
+
